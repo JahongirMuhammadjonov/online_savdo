@@ -41,7 +41,7 @@
         <activity android:name=".screen.SplashActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-<!--                comment-->
+<!--                commentariya-->
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
