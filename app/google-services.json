@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27530980117",
+    "project_id": "online-savdo",
+    "storage_bucket": "online-savdo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27530980117:android:eadaf82ffb2b356fd8571c",
+        "android_client_info": {
+          "package_name": "com.example.onlinesavdo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27530980117-megluujp0ra4mu9dge117vhpcpmdbpnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCv9vBiQWTsitWBBi8IoDPaxwgtkdBd1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27530980117-megluujp0ra4mu9dge117vhpcpmdbpnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
